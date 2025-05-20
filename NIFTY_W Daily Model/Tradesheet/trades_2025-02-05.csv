@@ -1,0 +1,3 @@
+strategy,strike,entry_action,SL,TP,qty,entry_date,entry_time,entry_price,exit_date,exit_time,exit_price,exit_action,MTM
+23850CE,23850CE,SELL,50.85,27.2025,-1800,20250205,948,41.85,20250205,1213,27.2025,ST,26365.5
+23650PE,23650PE,SELL,50.15,26.7475,-1800,20250205,1000,41.15,20250205,1004,50.15,SSL,-16200.0
